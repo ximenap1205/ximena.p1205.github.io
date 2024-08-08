@@ -1,0 +1,48 @@
+header{
+    background-color: rgb(233, 192, 213);
+    text-align: topleft;
+    text-decoration: underline;
+    padding: 20px;
+    width: 100%;
+    bottom: 0;
+}
+.Foto{
+    width: 60%;
+    max-width: 100px;
+    float: top left;
+}
+body{
+    background-color: rgb(236, 218, 228);
+
+}
+
+div{
+    background-color: rgba(236, 167, 203, 0.226);
+    text-align: center;
+    width: 100%;
+}
+
+h2{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+.primera-linea{ 
+    color: rgb(231, 137, 186);
+
+}
+
+.segunda-linea{
+    text-align: center;
+}
+
+#piedepagina {
+    background-color: rgb(233, 192, 213);
+    color: black;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
